@@ -71,7 +71,7 @@ protected:
 protected:
 	
 	/** The street map we're representing */
-	UPROPERTY( EditAnywhere, Category = "Street Map" )
+	UPROPERTY( EditAnywhere )
 	class UStreetMap* StreetMap;
 
 
